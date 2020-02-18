@@ -1,0 +1,32 @@
+.button:hover {
+    -fx-background-color: lightgrey;
+}
+ 
+.button:pressed {
+    -fx-background-color: grey;
+}
+ 
+.taResult {
+    -fx-background-color: white;
+    -fx-border-color: lightgray;
+    -fx-border-width: 0.1em;
+    -fx-text-fill: black;
+}
+ 
+.green {
+    -fx-background-color: lightgreen ;
+    -fx-background-radius: 0;
+    -fx-border-color: gray;
+}
+ 
+.numbers {
+    -fx-background-radius: 0;
+    -fx-border-color: gray;
+}
+ 
+.orange {
+    -fx-background-color: orange;
+    -fx-background-radius: 0;
+    -fx-border-color: gray;
+    -fx-text-fill: white;
+}
